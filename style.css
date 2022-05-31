@@ -57,11 +57,11 @@ img {
   margin-bottom: 42px;
 }
 
-h2 {
+h2, h1 {
   font-family: "Big Shoulders Display", cursive;
   margin-bottom: 42px;
   color: var(--very-light-gray);
-  font-size: 30px;
+  font-size: 40px;
 }
 
 p {
