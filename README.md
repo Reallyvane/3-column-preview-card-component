@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/responsive-3column-preview-card-component-zulVzcPIHW))
-- Live Site URL: [Vercel]([https://your-live-site-url.com](https://3-column-preview-card-component-responsive.vercel.app))
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-3column-preview-card-component-zulVzcPIHW)
+- Live Site URL: [Vercel](https://3-column-preview-card-component-responsive.vercel.app)
 
 ## My process
 
