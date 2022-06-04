@@ -66,8 +66,9 @@ h2, h1 {
 
 p {
   font-family: "Lexend Deca", sans-serif;
-  margin-bottom: 90px;
+  margin-bottom: 40px;
   color: var(--transparent-white);
+  line-height: 2;
 }
 
 button {
